@@ -26,7 +26,7 @@ kept which is done using Java and rest of the folder and files are for designing
 <b>Step 1: </b> Create a folder containing any name. <br>
 <b>Step 2: </b> Go inside the folder, open terminal and execute following command to create server. <h5> `npm init -y` </h5> 
 <b>Step 3: </b> Intall all the dependencies by executing following command. <h5> `npm i express mongoose ejs` </h5>
-Note  : Express is our server, moggose will be required for database and ejs for different views. <br>
+Note  : Express is our server, mongoose will be required for database and ejs for different views. <br>
 <b>Step 4: </b> Install nodemon by executing following command for automaticaaly refresh the server. <h5> `npm i --save-dev nodemon` </h5>
 <b>Step 5: </b> Go inside the <em>package.json </em> file and change the test inside the scripts to <em> "start" : "nodemon server.js" </em> <br>
 <b>Step 6: </b> Download the this repository and extracted the files. <br>
