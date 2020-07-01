@@ -39,8 +39,8 @@ Note  : Express is our server, moggose will be required for database and ejs for
 <h5> Vehicle Showroom </h5>
 
 <b>Step 1: </b> Open a Java editor. Eclipse preferable. <br>
-<b>Step 2: </b> Create a java project.</h5> 
-<b>Step 3: </b> Under the project create class named `vehicles, Normal, Sports, Heavy, Main` and copy the extracted corresponsing files values from <b>VehicleShowrrom</b> folder. <br>
-<b>Step 4: </b> Or copy the extracted java `vehicles, Normal, Sports, Heavy, Main`  class files under your project.</h5>
+<b>Step 2: </b> Create a java project.<br>
+<b>Step 3: </b> Under the project create class named `Vehicles, Normal, Sports, Heavy, Main` and copy the extracted corresponsing files values from <b>VehicleShowrrom</b> folder. <br>
+<b>Step 4: </b> Or copy the extracted java `Vehicles, Normal, Sports, Heavy, Main`  class files under your project.<br>
 <b>Step 5: </b> Run the main class.<br>
 
