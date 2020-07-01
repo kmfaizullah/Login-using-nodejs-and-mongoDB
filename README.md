@@ -46,3 +46,6 @@ Note  : Express is our server, mongoose will be required for database and ejs fo
 <b>Step 3: </b> Under the project create class named `Vehicles, Normal, Sports, Heavy, Main` and copy the extracted corresponsing files values from <b>VehicleShowrrom</b> folder. <br>
 <b>Step 4: </b> Run the main class.<br>
 
+<h5> UML Diagram </h5>
+<img src="image/uml.png">
+
