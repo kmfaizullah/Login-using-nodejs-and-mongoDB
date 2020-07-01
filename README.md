@@ -47,5 +47,5 @@ Note  : Express is our server, mongoose will be required for database and ejs fo
 <b>Step 4: </b> Run the main class.<br>
 
 <h5> UML Diagram </h5>
-<img src="image/uml.png" width="750" height="350">
+<img src="image/uml.png" width="500" height="350">
 
