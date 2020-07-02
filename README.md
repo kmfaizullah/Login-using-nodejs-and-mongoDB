@@ -32,7 +32,7 @@ Assumes Node.js is already installed in your machine. <br>
 Note  : Express is our server, mongoose will be required for database and ejs for different views. <br>
 <b>Step 4: </b> Install nodemon by executing following command for automaticaaly refresh the server. <h5> `npm i --save-dev nodemon` </h5>
 <b>Step 5: </b> Go inside the <em>package.json </em> file and change the test inside the scripts to <em> "start" : "nodemon server.js" </em> <br>
-<b>Step 6: </b> Download the this repository and extracted the files. <br>
+<b>Step 6: </b> Download this repository and extracted the files. <br>
 <b>Step 7: </b> Copy the <b> models, views, routes and server files </b> from extracted repository to your project repository <br>
 <b>Step 8: </b> Download the mongodb from the following link. <h5>`https://www.mongodb.com/try/download/community` </h5>
 <b>Step 9: </b> Install the mongodb to your local computer. Also install mongodb compass. <br>
