@@ -37,7 +37,7 @@ Note  : Express is our server, mongoose will be required for database and ejs fo
 <b>Step 8: </b> Download the mongodb from the following link. <h5>`https://www.mongodb.com/try/download/community` </h5>
 <b>Step 9: </b> Install the mongodb to your local computer. Also install mongodb compass. <br>
 <b>Step 10: </b> After installing mongodb go to `cdrive->program files->mongodb->server->4.2(any version)->bin` folder. Open terminal and execute `mongod` command to start mongodb. <br>
-<b>Step 11: </b> Run MongoDB Compass.<br>
+<b>Step 11: </b> Run MongoDB Compass to check databse status.<br>
 <b>Step 12: </b> Run `npm start` command in terminal. It will start your project. <br>
 <b>Step 13: </b> Got to your web browser and type `localhost:5000`. The project will be visualized.<br>
 <b>Step 14: </b> First signup into a account and then login with this accout.<br>
