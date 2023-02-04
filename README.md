@@ -3,8 +3,6 @@ This repository contains two assignment files. In <b> VehicleShowroom </b> folde
 kept which is done using Java and rest of the folder and files are for designing a <em> Login </em> problem using Node.js, Express.Js and Mongodb. <br>
 <b>Tools/Technology </b> : Java (for Showrrom project), Node.Js, Express.Js, MongoDB, HTML, Bootstrap and CSS.
 
-<h6> <a href="https://youtu.be/7jEXiUAvlCg"> Login System Project demo </a> </h6>
-<h6> <a href="https://youtu.be/lAE2MZyr-CA"> Vehicles Showroom Project demo </a> </h6>
 
 #### Dependencies
 <h5> Login Project </h5>
